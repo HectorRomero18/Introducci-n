@@ -1,2 +1,2 @@
-# Introducci-n
+# Introduccion
 Trabajo de Introduccion
